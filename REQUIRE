@@ -1,0 +1,11 @@
+julia 1.0
+Reexport
+BusinessDays
+Roots
+Optim
+DataFrames
+Distributions
+HTTP
+Plots
+StatsBase
+TimeSeries
