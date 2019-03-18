@@ -1,6 +1,6 @@
 ## AOPE - Avaliação de Obrigações e Produtos Estruturados
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ASaragga/Notebooks.jl/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ASaragga/Notebooks.jl/master) [![Join the chat at https://gitter.im/AOPE-jl/community](https://badges.gitter.im/AOPE-jl/community.svg)](https://gitter.im/AOPE-jl/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### Elementos de Cálculo Financeiro
 A valorização de instrumentos de taxa de juro envolve a observação e estimativa de diversos factores temporais, incluindo: data de liquidação, juros corridos, datas de pagamento de coupons e datas de compensação de rendimentos (e.g. swaps).  
